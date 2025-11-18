@@ -20,7 +20,7 @@ Quick start
 
        pip install -r requirements.txt
 
-3. Copy `.env.example` to `.env` and add your OpenAI key:
+3. Add your OpenAI key to `.env`:
 
        OPENAI_API_KEY=sk-...
 
