@@ -1,0 +1,7 @@
+typer
+sqlmodel
+pydantic
+python-dotenv
+openai
+rich
+pytest
