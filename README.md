@@ -1,4 +1,4 @@
-Analytics Coach + Smart Day Organizer (Clean Starter)
+Analytics Coach 
 ====================================================
 
 Quick start
